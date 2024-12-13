@@ -2,9 +2,9 @@
   "name": "gameofthronesapihindi",
   "version": "1.0.0",
   "description": "a api for all game of thrones fans in hindi language",
-  "main": "index.js",
+  "main": "app.js",
   "scripts": {
-    "start": "nodemon index.js",
+    "start": "nodemon app.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies": {
